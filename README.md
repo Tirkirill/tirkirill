@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/tirkirill)](https://leetcode.com/tirkirill)
+![LeetCode Stats](https://leetcard.jacoblin.cool/tirkirill?theme=light&font=Sirin%20Stencil&ext=heatmap)
