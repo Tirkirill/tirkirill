@@ -2,7 +2,7 @@
 
 Проекты:
 ИИ, Машинное обучение и Аналитика данных:
-1. https://github.com/Tirkirill/Forecasting_trajectory - Для конкурса Траектория Будущего 2025 "Проектирование нейросетей на Python"
+1. [Предсказание погоды]([https://pages.github.com/](https://github.com/Tirkirill/Forecasting_trajectory)) - Для конкурса Траектория Будущего 2025 "Проектирование нейросетей на Python"
 2. https://github.com/Tirkirill/SteamDB - Проект по изучению данных об играх в библиотеке Steam. Скрипты позволяют загружать данные (цены, жанры, категории, метки) в бд (postgres) для дальнейшего их изучения.
 
 1С:
