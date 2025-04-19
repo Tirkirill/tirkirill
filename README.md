@@ -1,4 +1,4 @@
-## Hi there 👋
+## Щербаков Кирилл. Выпускник МТКП МГТУ им. Н. Э. Баумана
 
 <!--
 **Tirkirill/tirkirill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
