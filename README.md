@@ -11,7 +11,7 @@
 
 Другое:
 1. [Python скрипт, который формирует настройки игры Fistful Of Frags](https://github.com/Tirkirill/FOF_Script)
-2. [Программа на C# для рисования простеньких мультиков (рисование картинок - кадров)] (https://github.com/Tirkirill/Paint)
+2. [Программа на C# для рисования простеньких мультиков (рисование картинок - кадров)](https://github.com/Tirkirill/Paint)
 
 
 
