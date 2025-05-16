@@ -22,3 +22,5 @@ Arduino:
 
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/tirkirill?theme=light&font=Sirin%20Stencil&ext=heatmap)](https://leetcode.com/tirkirill)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tirkirill)](https://github.com/anuraghazra/github-readme-stats)
